@@ -28,9 +28,6 @@ This project demonstrates the journey of coffee production, from harvesting coff
 3. Compile the project using an OpenGL-compatible compiler.  
 4. Run the compiled executable to start the animation.  
 
-📹 Demo Video
-[Watch the Demo](videos/demo.mp4)  
-
 📚 Lessons Learned
 - Integrating OpenGL functions for smooth animations.  
 - Effective teamwork to combine diverse components into a cohesive project.  
